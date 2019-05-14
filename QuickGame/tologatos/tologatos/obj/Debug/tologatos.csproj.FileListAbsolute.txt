@@ -1,0 +1,9 @@
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\bin\Debug\tologatos.exe.config
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\bin\Debug\tologatos.exe
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\bin\Debug\tologatos.pdb
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\obj\Debug\tologatos.csprojResolveAssemblyReference.cache
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\obj\Debug\tologatos.Properties.Resources.resources
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\obj\Debug\tologatos.csproj.GenerateResource.Cache
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\obj\Debug\tologatos.exe
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\obj\Debug\tologatos.pdb
+D:\egyetem\visual studio\tologatosjatek\tologatos\tologatos\obj\Debug\tologatos.Form1.resources
